@@ -18,3 +18,53 @@ h2
   margin-left: 15px;
   margin-right: 15px;
 }
+
+@media only screen and (min-width: 800px)
+{
+  .intro-text p
+  {
+    font-size: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+  h1
+  {
+    font-size: 36px;
+    margin-left: 20px;
+    margin-right:205px;
+  }
+
+  h2
+  {
+    font-size: 33px;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+}
+
+@media only screen and (min-width: 1200px)
+{
+  .intro-text p
+  {
+    font-size: 36px;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+  h1
+  {
+    font-size: 45px;
+    margin-left: 20px;
+    margin-right:205px;
+  }
+
+  h2
+  {
+    font-size: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+}
