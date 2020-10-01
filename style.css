@@ -83,6 +83,7 @@ figcaption
   {
     display: flex;
     flex-wrap: wrap;
+    width: 20%; 
     /*justify-content: space-around;*/
   }
 
